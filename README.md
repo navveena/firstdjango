@@ -1,0 +1,2 @@
+# firstdjango
+simple django app
